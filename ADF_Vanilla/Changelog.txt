@@ -1,0 +1,79 @@
+Changelog...
+
+
+
+v1a 	Initial Release 1/6/2017 ACAM, JCAM & DPCU all CUSTOM using GIMP. MCAM and MTP acquired through my best Friend GOOGLE.
+
+v1.1  	Adjust Saturation/Lightness DPCU Vests -30lt -50sat
+		Adjust Saturation/Lightness DPCU Equip -20lt -40sat
+		Added ADF DPCU Backacks x 3 & Vest Kerry
+		Fixed SMA Weapons Optics Configs not working! (Thanks to wansec_6)
+		Added SMA Steyr/AUG to Groups/Units 
+		*Now 3 10 Man Squads - MCAM, ACAM & DPCU.
+		
+	
+		
+v1.1.1 	Added RAAF Helipilot (Custom Name badge "LT 'Barry')
+		Added RAAF Helipilot to Helicopters Crew
+		Added 2 x RAAF WIP Textures to Ghosthawk in (Faction (M))
+		
+		
+v1.1.2	Added BoonieHats for All Camos
+		Added 10 Man JCAM Squad
+		Added Generic Helepilot no Barry :(
+		Added Helicrew Unit
+		Added 2 x RAAF Merlins Dark/Light Grey
+		Added RAAF Faction for Heli's and Crew
+		Change DPCU Kitbags to OD from Khaki
+		
+v1.1.3	REMOVED TFAR Dependancy
+		Added CH471 Chinook RAAF Textures (Black, Light & Dark Grey)
+		Added Transport Trucks Green
+		Added ADF_Vanilla_Showcase Mission I use for Testing and Viewing assets
+		Adjusted ACAM Vest Brightness
+		Countless Adjustments to Air/Ground Vehicle Texture Balances/Levels etc etc 
+		
+v1.1.3 	Added DPCU MRAPs
+		Added Ammo, Fuel and Repair Trucks in Green and MCAM
+		Fixed Camo Choppers Given RAAF Patch instead of ARMY Roo
+		Continued my never ending struggle to get the Colours to my liking on Camos
+		Adjusted ACAM Ghosthawk that looked 'pinkish'
+		Adjusted DPCU Ghosthawk that was too dark
+		
+		**Checkout the Showcase in VR Editor for View of all Assets.
+		
+		**Upcoming: Texture HMG Turrets :D
+					Fixed Wing Assets
+					Trucks in DPCU2030
+		
+v1.1.4	100% Vanilla Removed ALL External dependancies
+		Renamed 'Auscam' to DPCU
+		Added First SASR Uniform using INDEP uniforms for Variety (DPCU & MTP so far) with Color Patch and IR Shoulder Flags
+		Changed AUS Flag on front of VESTS
+		Cotinued my battle with getting the Saturations and Brightness how i like it with all Cams
+		Reduced 'Fabric' Pattern on all Uniforms/Vests
+		Added MTP Camo Uniforms for Regular Units that fit in nicely with Vanilla USA MTP
+		
+v1.1.5	Added Mod Aussie Flag Icons to help better seperate the ADF Content
+		Added MTP 10 Man Squad to Groups
+		Added MTP and JCAM Backpacks as per other Cams
+		Consolidated Mod Files blah blah blah ;)
+		Added First Iteration of DPDU
+		Changed DPCU to be lighter and brighter
+		Added First Iteration of a "Grunge" layer to MRAP's (Mud, dirt etc)
+		Added 'JCAM' MRAP's 
+		Added 'Sand' MRAP's (Plain sand and green for those who dont like camo)
+		Fixed(ing) Large 'BooBoo' with Ghosthawk Textures, forgetting the Second correct Tail textures. 
+		Added my First Iteration of a new Vehicle Texture in Ghosthawk DPCU Variant with more realistic aircraft Camo. 
+		Added Sand Ghosthawk with 1st iteration of some new Decals. 
+
+v1.1.6 Added Carryall Backpacks
+	   Decided to Concerntrate on Base Colours for Vehicles (except) DPCU 
+		
+		
+		
+		
+
+
+
+		
